@@ -1,0 +1,23 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+ 
+h1, h2, h3{
+    text-align: center;
+}
+
+#el{
+    text-align: center;
+}
+
+span .al{
+    text-align: center;
+}
+
+#ol{
+    text-align: center;
+}
+
+body{
+    text-align: justify;
+}
